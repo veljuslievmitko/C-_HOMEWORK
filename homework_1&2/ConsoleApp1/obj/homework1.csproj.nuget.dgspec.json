@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mitko\\Desktop\\sedc\\C#\\C-_HOMEWORK\\homework_1\\ConsoleApp1\\homework1.csproj": {}
+    "C:\\Users\\Mitko\\Desktop\\sedc\\C#\\C-_HOMEWORK\\homework_1&2\\ConsoleApp1\\homework1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mitko\\Desktop\\sedc\\C#\\C-_HOMEWORK\\homework_1\\ConsoleApp1\\homework1.csproj": {
+    "C:\\Users\\Mitko\\Desktop\\sedc\\C#\\C-_HOMEWORK\\homework_1&2\\ConsoleApp1\\homework1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mitko\\Desktop\\sedc\\C#\\C-_HOMEWORK\\homework_1\\ConsoleApp1\\homework1.csproj",
+        "projectUniqueName": "C:\\Users\\Mitko\\Desktop\\sedc\\C#\\C-_HOMEWORK\\homework_1&2\\ConsoleApp1\\homework1.csproj",
         "projectName": "homework1",
-        "projectPath": "C:\\Users\\Mitko\\Desktop\\sedc\\C#\\C-_HOMEWORK\\homework_1\\ConsoleApp1\\homework1.csproj",
+        "projectPath": "C:\\Users\\Mitko\\Desktop\\sedc\\C#\\C-_HOMEWORK\\homework_1&2\\ConsoleApp1\\homework1.csproj",
         "packagesPath": "C:\\Users\\Mitko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mitko\\Desktop\\sedc\\C#\\C-_HOMEWORK\\homework_1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\Mitko\\Desktop\\sedc\\C#\\C-_HOMEWORK\\homework_1&2\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mitko\\AppData\\Roaming\\NuGet\\NuGet.Config",

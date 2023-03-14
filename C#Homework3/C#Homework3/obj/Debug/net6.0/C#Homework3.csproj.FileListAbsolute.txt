@@ -1,0 +1,15 @@
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework3\C#Homework3\bin\Debug\net6.0\C#Homework3.exe
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework3\C#Homework3\bin\Debug\net6.0\C#Homework3.deps.json
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework3\C#Homework3\bin\Debug\net6.0\C#Homework3.runtimeconfig.json
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework3\C#Homework3\bin\Debug\net6.0\C#Homework3.dll
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework3\C#Homework3\bin\Debug\net6.0\C#Homework3.pdb
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework3\C#Homework3\obj\Debug\net6.0\C#Homework3.csproj.AssemblyReference.cache
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework3\C#Homework3\obj\Debug\net6.0\C#Homework3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework3\C#Homework3\obj\Debug\net6.0\C#Homework3.AssemblyInfoInputs.cache
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework3\C#Homework3\obj\Debug\net6.0\C#Homework3.AssemblyInfo.cs
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework3\C#Homework3\obj\Debug\net6.0\C#Homework3.csproj.CoreCompileInputs.cache
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework3\C#Homework3\obj\Debug\net6.0\C#Homework3.dll
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework3\C#Homework3\obj\Debug\net6.0\refint\C#Homework3.dll
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework3\C#Homework3\obj\Debug\net6.0\C#Homework3.pdb
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework3\C#Homework3\obj\Debug\net6.0\C#Homework3.genruntimeconfig.cache
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework3\C#Homework3\obj\Debug\net6.0\ref\C#Homework3.dll
