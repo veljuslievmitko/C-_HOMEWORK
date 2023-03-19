@@ -1,0 +1,15 @@
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework4\SEDC.Homewroknumber.4\bin\Debug\net6.0\SEDC.Homewroknumber.4.exe
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework4\SEDC.Homewroknumber.4\bin\Debug\net6.0\SEDC.Homewroknumber.4.deps.json
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework4\SEDC.Homewroknumber.4\bin\Debug\net6.0\SEDC.Homewroknumber.4.runtimeconfig.json
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework4\SEDC.Homewroknumber.4\bin\Debug\net6.0\SEDC.Homewroknumber.4.dll
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework4\SEDC.Homewroknumber.4\bin\Debug\net6.0\SEDC.Homewroknumber.4.pdb
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework4\SEDC.Homewroknumber.4\obj\Debug\net6.0\SEDC.Homewroknumber.4.csproj.AssemblyReference.cache
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework4\SEDC.Homewroknumber.4\obj\Debug\net6.0\SEDC.Homewroknumber.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework4\SEDC.Homewroknumber.4\obj\Debug\net6.0\SEDC.Homewroknumber.4.AssemblyInfoInputs.cache
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework4\SEDC.Homewroknumber.4\obj\Debug\net6.0\SEDC.Homewroknumber.4.AssemblyInfo.cs
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework4\SEDC.Homewroknumber.4\obj\Debug\net6.0\SEDC.Homewroknumber.4.csproj.CoreCompileInputs.cache
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework4\SEDC.Homewroknumber.4\obj\Debug\net6.0\SEDC.Homewroknumber.4.dll
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework4\SEDC.Homewroknumber.4\obj\Debug\net6.0\refint\SEDC.Homewroknumber.4.dll
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework4\SEDC.Homewroknumber.4\obj\Debug\net6.0\SEDC.Homewroknumber.4.pdb
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework4\SEDC.Homewroknumber.4\obj\Debug\net6.0\SEDC.Homewroknumber.4.genruntimeconfig.cache
+C:\Users\Mitko\Desktop\sedc\C#\C-_HOMEWORK\C#Homework4\SEDC.Homewroknumber.4\obj\Debug\net6.0\ref\SEDC.Homewroknumber.4.dll
