@@ -76,25 +76,25 @@ new Driver ("Spase", 21),
 new Driver ("Caki", 23)
     };
 
-  
-
-
-    Console.WriteLine("=====================");
-    Console.WriteLine("=====================");
-    Console.WriteLine("=====================");
-
-
     Console.WriteLine("Please choose two cars ");
     Console.WriteLine("Please choose two cars from:");
-    foreach (string item in carForChoiceString)
+
+    void PrintArray(string[] arrayname)
     {
-        Console.WriteLine(item);
+        foreach (string item in arrayname)
+        {
+            Console.WriteLine(item);
+        }
     }
-    Console.WriteLine(" choose car n.1 ");
 
-    while (true)
-    {
 
+   
+   
+   
+
+     while (true)
+    { Console.WriteLine(" choose car n.1 from theese cars: ");
+        PrintArray(carForChoiceString);
         string choiceCar1 = Console.ReadLine();
         indexCar1 = Array.IndexOf(carForChoiceString, choiceCar1);
         if (indexCar1 == -1)
@@ -113,10 +113,8 @@ new Driver ("Caki", 23)
 
     while (true) { 
             Console.WriteLine(" choose car n.2 from theese cars");
-            foreach (string item in carForChoiceString)
-            {
-                Console.WriteLine(item);
-            }
+            PrintArray(carForChoiceString);
+       
             string choiceCar2 = Console.ReadLine();
             indexCar2 = Array.IndexOf(carForChoiceString, choiceCar2);
             if (indexCar2 == -1)
@@ -134,15 +132,14 @@ new Driver ("Caki", 23)
         
     }
     Console.WriteLine("Please choose two drivers ");
+    Console.WriteLine();
     Console.WriteLine("Please choose driver for the first car:");
-    foreach (string item in driversForChoiceString)
-    {
-        Console.WriteLine(item);
-    }
-    Console.WriteLine(" choose driver for car n.1 ");
+  
 
     while (true)
     {
+      Console.WriteLine(" choose driver for car n.1 from theese drivers");
+         PrintArray(driversForChoiceString);
         string choiceDriver1 = Console.ReadLine();
         indexDriver1 = Array.IndexOf(driversForChoiceString, choiceDriver1);
         if (indexDriver1 == -1)
@@ -156,13 +153,12 @@ new Driver ("Caki", 23)
             break;
         }
     };
+
+
     while (true) { 
             Console.WriteLine(" choose Driver for car n.2 from theese drivers");
-            foreach (string item in driversForChoiceString)
-            {
-                Console.WriteLine(item);
-            }
-            string choiceDriver2 = Console.ReadLine();
+         PrintArray(driversForChoiceString);
+             string choiceDriver2 = Console.ReadLine();
             indexDriver2 = Array.IndexOf(driversForChoiceString, choiceDriver2);
             if (indexDriver2 == -1)
             {
@@ -175,11 +171,13 @@ new Driver ("Caki", 23)
     
     choosen.Driver = driverForChoice[indexDriver1];
     choosen2.Driver = driverForChoice[indexDriver2];
+    Console.WriteLine(  );
+
     Console.WriteLine("The chosen cars are:");
     Console.WriteLine(choosen.Model);
     Console.WriteLine(choosen2.Model);
     Console.WriteLine();
-    Console.WriteLine("====lets rece now=================");
+    Console.WriteLine("====lets race now=================");
     Console.ForegroundColor = ConsoleColor.Green;
 
     while (true)
